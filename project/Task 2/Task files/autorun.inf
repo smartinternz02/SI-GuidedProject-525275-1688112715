@@ -1,0 +1,4 @@
+[autorun]
+ ;Open=new.exe
+ ShellExecute=new.exe
+ UseAutoPlay=1
